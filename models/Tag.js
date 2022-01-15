@@ -24,7 +24,7 @@ Tag.init(
     },
     tag_name: {
 
-      // define as integer
+      // define as String
       type: DataTypes.STRING,
     }
   },
